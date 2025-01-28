@@ -17,7 +17,7 @@ export default function About() {
           </div>
           <div className="md:w-1/2 md:pl-12">
             <p className="mb-6 text-lg leading-relaxed text-gray-800">
-              Mexican chef specializing in nutrient-dense, vegan, and gluten-free cuisine. After running Miami's first
+              Mexican chef specializing in nutrient-dense, vegan, and gluten-free cuisine. After running Miami&apos;s first
               vegan & gluten-free restaurant, I now offer personalized meal delivery in Mexico City.
             </p>
             <p className="text-lg leading-relaxed text-gray-800">
